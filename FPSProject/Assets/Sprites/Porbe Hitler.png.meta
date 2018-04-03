@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: c3e8d86df0f53f7488ae96bbb2322c6d
+timeCreated: 1520345490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Porbe Hitler_0
+    21300002: Porbe Hitler_1
+    21300004: Porbe Hitler_2
+    21300006: Porbe Hitler_3
+    21300008: Porbe Hitler_4
+    21300010: Porbe Hitler_5
+    21300012: Porbe Hitler_6
+    21300014: Porbe Hitler_7
+    21300016: Porbe Hitler_8
+    21300018: Porbe Hitler_9
+    21300020: Porbe Hitler_10
+    21300022: Porbe Hitler_11
+    21300024: Porbe Hitler_12
+    21300026: Porbe Hitler_13
+    21300028: Porbe Hitler_14
+    21300030: Porbe Hitler_15
+    21300032: Porbe Hitler_16
+    21300034: Porbe Hitler_17
+    21300036: Porbe Hitler_18
+    21300038: Porbe Hitler_19
+    21300040: Porbe Hitler_20
+    21300042: Porbe Hitler_21
+    21300044: Porbe Hitler_22
+    21300046: Porbe Hitler_23
+    21300048: Porbe Hitler_24
+    21300050: Porbe Hitler_25
+    21300052: Porbe Hitler_26
+    21300054: Porbe Hitler_27
+    21300056: Porbe Hitler_28
+    21300058: Porbe Hitler_29
+    21300060: Porbe Hitler_30
+    21300062: Porbe Hitler_31
+    21300064: Porbe Hitler_32
+    21300066: Porbe Hitler_33
+    21300068: Porbe Hitler_34
+    21300070: Porbe Hitler_35
+    21300072: Porbe Hitler_36
+    21300074: Porbe Hitler_37
+    21300076: Porbe Hitler_38
+    21300078: Porbe Hitler_39
+    21300080: Porbe Hitler_40
+    21300082: Porbe Hitler_41
+    21300084: Porbe Hitler_42
+    21300086: Porbe Hitler_43
+    21300088: Porbe Hitler_44
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Porbe Hitler_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 247
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 190
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 191
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 191
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 191
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 191
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 191
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 191
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 191
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 127
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 127
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 127
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 127
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 127
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 127
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 127
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 127
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_29
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 127
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 61
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 61
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 61
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 61
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_35
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 61
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_36
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 61
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 61
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_38
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 61
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_39
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 61
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Porbe Hitler_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 446
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
